@@ -10,6 +10,7 @@ header {
     width: 100vw;
     height: 7vh;
     text-align: center;
+    background-color: rgb(115, 118, 118);
     border: 1px solid black;
 }
 
@@ -71,7 +72,6 @@ footer {
     background-color: lightgray;
     width: 90vw;
     text-align: center;
-    height: 95vh;
     padding: 3.5%;
     
 }
@@ -86,6 +86,7 @@ footer {
     .nav { 
         display: none;
     }
+}
 
 
  /* .card {
@@ -109,6 +110,7 @@ footer {
     nav { 
         display: none;
     }
+}
 
  /*   .card {
         display: inline-block;
@@ -133,6 +135,7 @@ footer {
     nav { 
         display: none;
     }
+}
 
   /*  .card {
         display: inline-block;
@@ -154,6 +157,7 @@ footer {
     .fa-solid {
         display: none;
     }
+}
 
 
    /* .card {
@@ -176,7 +180,7 @@ footer {
     .fa-solid {
         display: none;
     }
-
+}
   /*  .card {
         display: inline-block;
         width: 25%;
